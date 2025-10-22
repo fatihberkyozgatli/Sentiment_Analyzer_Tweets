@@ -1,0 +1,4 @@
+/Users/fatihberkyozgatli/Desktop/CS 2341/assignment-2-don-t-be-sentimental-fatihberk/build/CMakeFiles/sentiment.dir
+/Users/fatihberkyozgatli/Desktop/CS 2341/assignment-2-don-t-be-sentimental-fatihberk/build/CMakeFiles/test_DSString.dir
+/Users/fatihberkyozgatli/Desktop/CS 2341/assignment-2-don-t-be-sentimental-fatihberk/build/CMakeFiles/edit_cache.dir
+/Users/fatihberkyozgatli/Desktop/CS 2341/assignment-2-don-t-be-sentimental-fatihberk/build/CMakeFiles/rebuild_cache.dir

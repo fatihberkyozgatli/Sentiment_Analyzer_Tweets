@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test_DSString.dir/test_DSString.cpp.o CMakeFiles/test_DSString.dir/DSString.cpp.o -o test_DSString 
